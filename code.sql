@@ -1,6 +1,6 @@
-create database fifa19;
+create database fifa23;
 
-use fifa19;
+use fifa23;
 
 select * from tbl_players;
 
